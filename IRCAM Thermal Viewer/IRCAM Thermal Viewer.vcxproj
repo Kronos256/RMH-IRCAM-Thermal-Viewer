@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.props" Condition="Exists('packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.props')" />
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{AD5A507E-12AB-4E47-962E-DBA9061FB641}</ProjectGuid>
+    <EnableManagedPackageReferenceSupport>true</EnableManagedPackageReferenceSupport>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>IRCAMThermalViewer</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>c:\opencv\build\include;$(IncludePath)</IncludePath>
+    <LibraryPath>c:\opencv\build\x64\vc15\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>c:\opencv\build\include;$(IncludePath)</IncludePath>
+    <LibraryPath>c:\opencv\build\x64\vc15\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>opencv_world460d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\opencv\build\include;C:\glfw\include;C:\glew\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>opencv_world490.lib;glfw3.lib;opengl32.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\opencv\build\x64\vc16\lib;C:\glfw\lib-vc2022;C:\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Optimization>MaxSpeed</Optimization>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <CompileAsManaged>true</CompileAsManaged>
+      <AdditionalIncludeDirectories>$(VC_IncludePath);$(ProjectDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>openGL32.lib;glu32.lib;gdi32.lib;glew32.lib;glfw3.lib;glfw3_mt.lib;User32.lib;user32.lib;opencv_world490.lib;TurboActivate.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(ProjectDir)\lib;$(ProjectDir);C:\opencv\build\x64\vc16\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <ManifestFile>app.manifest</ManifestFile>
+      <UACExecutionLevel>AsInvoker</UACExecutionLevel>
+    </Link>
+    <Manifest />
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="stdole">
+      <HintPath>stdole</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="abstract_ds_camera.cpp" />
+    <ClCompile Include="GlobalObjectsAndVariables.cpp" />
+    <ClCompile Include="RMH_Application_ColorBarAndPalette.cpp" />
+    <ClCompile Include="camera_device.cpp" />
+    <ClCompile Include="cv_mat_convertor.cpp" />
+    <ClCompile Include="ds_camera.cpp" />
+    <ClCompile Include="ds_camera_device.cpp" />
+    <ClCompile Include="ds_camera_properties.cpp" />
+    <ClCompile Include="ds_camera_property.cpp" />
+    <ClCompile Include="ds_camera_stub.cpp" />
+    <ClCompile Include="ds_camera_utils.cpp" />
+    <ClCompile Include="ds_grabber_callback.cpp" />
+    <ClCompile Include="ds_video_format.cpp" />
+    <ClCompile Include="RMH_Application_SaveSession.cpp" />
+    <ClCompile Include="RMH_Application_ThermalViewer.cpp" />
+    <ClCompile Include="RMH_ThermalCameraSupport_Library.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="RMH_ImageProcessing_Library.cpp" />
+    <ClCompile Include="RMH_MathConversions_Library.cpp" />
+    <ClCompile Include="RMH_AnalysisMode_Routines.cpp" />
+    <ClCompile Include="RMH_Winforms_Library.cpp" />
+    <ClCompile Include="uvc_camera.cpp" />
+    <ClCompile Include="uvc_camera_looper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="abstract_ds_camera.h" />
+    <ClInclude Include="ColorBarRangeDialog.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ColorPaletteCreator.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="eglew.h" />
+    <ClInclude Include="EmissivityTableGUI.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="glew.h" />
+    <ClInclude Include="glfw3.h" />
+    <ClInclude Include="glfw3native.h" />
+    <ClInclude Include="glxew.h" />
+    <ClInclude Include="InputValueDialog.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="LiveViewTools.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="PopUpDialog.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="RMH_2DPlotDataSetSources_Resources.h" />
+    <ClInclude Include="RMH_Application_ColorBarAndPalette.h" />
+    <ClInclude Include="camera_device.h" />
+    <ClInclude Include="cv_mat_convertor.h" />
+    <ClInclude Include="ds_camera.h" />
+    <ClInclude Include="ds_camera_device.h" />
+    <ClInclude Include="ds_camera_properties.h" />
+    <ClInclude Include="ds_camera_property.h" />
+    <ClInclude Include="ds_camera_stub.h" />
+    <ClInclude Include="ds_camera_stub_default.h" />
+    <ClInclude Include="ds_camera_utils.h" />
+    <ClInclude Include="ds_grabber_callback.h" />
+    <ClInclude Include="ds_guid.h" />
+    <ClInclude Include="ds_libs_setting.h" />
+    <ClInclude Include="ds_video_format.h" />
+    <ClInclude Include="GlobalObjectsAndVariables.h" />
+    <ClInclude Include="LiveViewStream.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MainGUI.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ApplicationResource.h" />
+    <ClInclude Include="RMH_Application_SaveSession.h" />
+    <ClInclude Include="RMH_Application_ThermalViewer.h" />
+    <ClInclude Include="RMH_DataLoggingFeature_Resources.h" />
+    <ClInclude Include="RMH_EmissivityTable_Resources.h" />
+    <ClInclude Include="RMH_FullFrameTempData_Resources.h" />
+    <ClInclude Include="RMH_GeneralTriggerEvent_Resources.h" />
+    <ClInclude Include="RMH_LiveView_ZoomWindow.h" />
+    <ClInclude Include="RMH_OpenGL_2DPlot.h" />
+    <ClInclude Include="RMH_OpenGL_ColorBar.h" />
+    <ClInclude Include="RMH_OpenGL_Histogram.h" />
+    <ClInclude Include="RMH_OpenGL_SurfacePlot.h" />
+    <ClInclude Include="RMH_OpenGL_Winforms.h" />
+    <ClInclude Include="RMH_TemperatureAlarms_Resources.h" />
+    <ClInclude Include="RMH_AnalysisMode_Routines.h" />
+    <ClInclude Include="SplashScreen.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="qedit.h" />
+    <ClInclude Include="RMH_Application_Information.h" />
+    <ClInclude Include="RMH_CustomColorPalette_Resources.h" />
+    <ClInclude Include="RMH_ImageProcessing_Library.h" />
+    <ClInclude Include="RMH_ThermalCameraSupport_Library.h" />
+    <ClInclude Include="RMH_MathConversions_Library.h" />
+    <ClInclude Include="RMH_SupportedIRCameras_Resources.h" />
+    <ClInclude Include="RMH_Winforms_Library.h" />
+    <ClInclude Include="StatisticsWindow.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="SurfacePlotGUI.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="TempMeasGUI.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ThermalCameraGUI.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="UserGuideViewerGUI.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="uvc_camera.h" />
+    <ClInclude Include="uvc_camera_looper.h" />
+    <ClInclude Include="VideoPlayBackTools.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="WelcomeScreen.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="wglew.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ColorBarRangeDialog.resx">
+      <DependentUpon>ColorBarRangeDialog.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorPaletteCreator.resx">
+      <DependentUpon>ColorPaletteCreator.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmissivityTableGUI.resx">
+      <DependentUpon>EmissivityTableGUI.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputValueDialog.resx">
+      <DependentUpon>InputValueDialog.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LiveViewStream.resx">
+      <DependentUpon>LiveViewStream.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LiveViewTools.resx">
+      <DependentUpon>LiveViewTools.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainGUI.aa.resx">
+      <DependentUpon>MainGUI.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainGUI.resx">
+      <DependentUpon>MainGUI.h</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUpDialog.resx">
+      <DependentUpon>PopUpDialog.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsWindow.resx">
+      <DependentUpon>StatisticsWindow.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SurfacePlotGUI.resx">
+      <DependentUpon>SurfacePlotGUI.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TempMeasGUI.resx">
+      <DependentUpon>TempMeasGUI.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThermalCameraGUI.resx">
+      <DependentUpon>ThermalCameraGUI.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserGuideViewerGUI.resx">
+      <DependentUpon>UserGuideViewerGUI.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VideoPlayBackTools.resx">
+      <DependentUpon>VideoPlayBackTools.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeScreen.resx">
+      <DependentUpon>WelcomeScreen.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\AppIkoner\MainIcon.ico" />
+    <Image Include="..\AppIkoner\NyeIkoner\MaxTrackS.png" />
+    <Image Include="..\AppIkoner\NyeIkoner\MinTrackS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="IRCAM Thermal Viewer.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Program Files\IRCAMSoftwareManual.pdf">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\Program Files\opencv_videoio_ffmpeg490_64.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\Program Files\opencv_world490.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="x64\Release\glew32.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="x64\Release\glfw3.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="app.manifest.xml">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </Xml>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.targets" Condition="Exists('packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.props'))" />
+    <Error Condition="!Exists('packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Windows.CppWinRT.2.0.240405.15\build\native\Microsoft.Windows.CppWinRT.targets'))" />
+  </Target>
+</Project>

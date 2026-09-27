@@ -1,0 +1,349 @@
+  IRCAMThermalViewer.ColorBarRangeDialog.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.ColorPaletteCreator.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.EmissivityTableGUI.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.InputValueDialog.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.LiveViewStream.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.LiveViewTools.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.MainGUI.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.PopUpDialog.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.SplashScreen.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.StatisticsWindow.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.SurfacePlotGUI.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.TempMeasGUI.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.ThermalCameraGUI.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.UserGuideViewerGUI.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.VideoPlayBackTools.resources - Embedded, ContainedInManifestFile, 
+  IRCAMThermalViewer.WelcomeScreen.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly IRCAM Thermal Viewer, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly stdole, Version=18.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class OpenGLWinForms.RMHOpenGLWF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Panel, Byte): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    Double MinimumRectHeight : Public
+    Double MinimumRectWidth : Public
+    Double DefaultRectLineWidth : Public
+  Methods:
+    RMH_OpenGL_InitArray(UInt16*, UInt16, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_InitArray(Boolean*, UInt16, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_InitArray(Double*, UInt16, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_InitializeGlobalVariabelsAndArrays(UInt32, UInt32): PrivateScope, Public, HideBySig
+    RMH_OpenGL_AddOverlayPanelToMainTexturePanel(Panel): PrivateScope, Public, HideBySig
+    RMH_OpenGL_TranslateOverlayPanelMouseXPosToTextureXPos(MouseEventArgs): PrivateScope, Public, HideBySig
+    RMH_OpenGL_TranslateOverlayPanelMouseYPosToTextureYPos(MouseEventArgs): PrivateScope, Public, HideBySig
+    RMH_OpenGL_MakeRenderContextCurrent(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_MakeRenderContextNULL(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_EnableTextureLinearInterpolation(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetGraphicsElementsPixelParameters(UInt32, UInt32): PrivateScope, Public, HideBySig
+    RMH_OpenGL_InitImageTexture(UInt32, UInt32): PrivateScope, Public, HideBySig
+    RMH_OpenGL_WriteImageDataToTexture(UInt16*, UInt32, UInt32): PrivateScope, Public, HideBySig
+    RMH_OpenGL_UpdateTextureFieldOfView(UInt32, UInt32): PrivateScope, Public, HideBySig
+    RMH_OpenGL_glPrint(SByte*): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderStringOnTexture(Single, Single, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderLine(Single, Single, Single, Single, Single, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ReadLineType(LineSpecsPosition*, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ReadLinePixelCoordinates(LineSpecsPosition*, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_IsCursorInsideLine(Double, Double, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_GetSellectedLineMovableSide(Double, Double, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_GetLineCursor(LineMovableSides): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ChangeLineCursor(Double, Double, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_HandleLineMouseDownEvents(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_HandleLineMouseMoveEvents(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderMovableLine(LineSpecsPosition*, UInt16, Single, Byte, Byte, Byte, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_EnableLabelBackground(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ChangeRenderedLabelsColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ChangeLabelBackgroundColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderCrossHairWithLabel(Single, Single, Boolean(HasFieldMarshal), String, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderCrossHairCenterLabel(Single, Single, String, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_IsCursorInsideCrosshair(Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_GetSellectedCrosshairSizableSide(Double, Double, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_GetCrosshairCursor(CrosshairSizableSides): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ChangeCrosshairCursor(Double, Double, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_HandleCrosshairMouseDownEvents(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_HandleCrosshairMouseMoveEvents(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderMovableCrossHairWithLabel(CrosshairWLabelPosition*, UInt16, String, Byte, Byte, Byte, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_EnableMouseCursorTrackingWLabel(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_UpdateCursorTrackingPosition(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderMouseCursorLabel(MouseCursorPosition*, String, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_IsCursorInsideRectangle(Double, Double, Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_GetSellectedRectangelSizableSide(Double, Double, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_GetRectangelCursor(RectangelSizableSides): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ChangeRectangelCursor(Double, Double, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_HandleRectangleMouseDownEvents(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_HandleRectangleMouseMoveEvents(Double, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderMovableRectangle(RectangelPosition*, UInt16, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Byte, Byte, Byte, Byte, Byte, Byte, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RotateLiveViewCCW(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RotateLiveViewCW(): PrivateScope, Public, HideBySig
+    RMH_LiveView_HasRotationChanged(): PrivateScope, Public, HideBySig
+    RMH_LiveView_GetRotation(): PrivateScope, Public, HideBySig
+    RMH_LiveView_GetNativeImageWidth(): PrivateScope, Public, HideBySig
+    RMH_LiveView_GetNativeImageHeight(): PrivateScope, Public, HideBySig
+    RMH_LiveView_GetNativeImageAspectRatio(): PrivateScope, Public, HideBySig
+    RMH_LiveView_EnableScrollWheelRotation(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_LiveViewStream_UltraResolutionMode(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderImageTexture(Double, Double, Double, Double, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderGrayscale16BitImageData(UInt32, UInt32, UInt16*, UInt32, UInt32, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderGrayscaleUltraResolutionImageData(UInt32, UInt32, UInt16*, UInt32, UInt32, UInt32, UInt32, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_UpdateRenderedObjectsZOrder(UInt16): PrivateScope, Public, HideBySig
+    TexturePanel_MouseDown(Object, MouseEventArgs): PrivateScope, Public, HideBySig
+    TexturePanel_MouseUp(Object, MouseEventArgs): PrivateScope, Public, HideBySig
+    TexturePanel_MouseMove(Object, MouseEventArgs): PrivateScope, Public, HideBySig
+    TexturePanel_MouseWheel(Object, MouseEventArgs): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SwapOpenGLBuffers(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderingFinishedMark(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class OpenGLColorBar.RMHOpenGLColorBar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Panel, Byte): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    RMH_OpenGL_LoadFirstColorPalettesData($ArrayType$$$BY0EAAA@G* IsConst IsConst): PrivateScope, Public, HideBySig
+    RMH_OpenGL_LoadSecondColorPalettesData($ArrayType$$$BY0EAAA@G* IsConst IsConst): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ReadColorBarTagsPositions(ColorBarTagPosition*): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMaxMinRangeTemperature(Single, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ResetColorbarMaxMinRangeOffsetValues(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_FormatColorBarTickAndTagLabelStrings(String): PrivateScope, Public, HideBySig
+    RMH_OpenGL_UpdateColorBarMaxMinCenterTempArrowsPos(Single, Single, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ReadColorBarRangeMaxMinValues(ColorBarManualRangeTemps*): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetMouseWheelTempOffsetStepSize(Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_InvertColorBarPalettes(Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarTickLineColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMaxTagColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMinTagColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMaxArrowColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMinArrowColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarCenterArrowColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMaxArrowLabelColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarMinArrowLabelColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetColorBarCenterLabelArrowColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderColorBar(UInt32, UInt32, Boolean(HasFieldMarshal), Byte, Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class OpenGLHistogram.RMHOpenGLHistogram: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Panel, Byte): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    RMH_OpenGL_LoadHistogramColorPalette($ArrayType$$$BY0EAAA@G*): PrivateScope, Public, HideBySig
+    RMH_OpenGL_InvertHistogramColorPalette(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_FormatHistogramBinDataRaw(UInt16*, UInt32, UInt16, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_FormatHistogramBinDataTemp(IRCameraDeviceFormat*, UInt16*, UInt32, Single, Single, Single, Single, UInt16): PrivateScope, Public, HideBySig
+    RMH_OpenGL_FormatHistogramBinDataLine(IRCameraDeviceFormat*, UInt16*, Single*, Single*, UInt32, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetHistogramNumberOfBins(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderHistogram(UInt32, UInt32): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class OpenGLSurfacePlot.RMHOpenGLSurfacePlot: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Panel, Byte, Byte): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    RMH_OpenGL_ResetSurfacePlotView(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_UpdateSurfacePlotMaxZHeight(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetSurfacePlotPolygonMode(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetSurfacePlotPolygonModePointSize(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetSurfacePlotPolygonModeLineSize(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderSurfacePlot(UInt32, UInt32, UInt16*, UInt32, UInt32, UInt16*, Single, Single): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class OpenGL2DPlot.RMHOpenGL2DPlot: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Panel, Byte, Byte): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    RMH_OpenGL_Enable2DPlotBox(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_Enable2DPlotGridLines(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_Set2DPlotNumberOfXTicks(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_Set2DPlotNumberOfYTicks(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetDataSetLineWidth(Byte, Single): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetDataSetLineColor(Byte, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_AddDataPointToPlotDataSet(Single, Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_EnablePlotOfDataSetx(Byte, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ReadDataSetsMaxMinDataRangeValues(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ResetDataSetLineDataIndexRenderOffset(Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_Clear2DPlot(): PrivateScope, Public, HideBySig
+    RMH_OpenGL_Get2DPlotDataSetRenderingOrder(Byte*): PrivateScope, Public, HideBySig
+    RMH_OpenGL_ReadPlotDataSetEnabledState(Byte): PrivateScope, Public, HideBySig
+    RMH_OpenGL_SetDataLoggingLabelStateAndTimer(Boolean(HasFieldMarshal), UInt32 IsLong): PrivateScope, Public, HideBySig
+    RMH_2DPlot_EnablePlotMouseCursorPointData(Object): PrivateScope, Public, HideBySig
+    RMH_OpenGL_Render2DPlot(UInt32, UInt32, String): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class LiveViewZoomWindow.RMHLiveViewZoomWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Panel): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    RMH_OpenGL_InitLiveViewZoomWindow(UInt32, UInt32): PrivateScope, Public, HideBySig
+    RMH_LiveView_EnableLabelBackground(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    RMH_LiveView_ChangeRenderedLabelsColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_LiveView_ChangeLabelBackgroundColor(Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_LiveView_RenderCrossHairWithLabel(Single, Single, Boolean(HasFieldMarshal), String, Byte, Byte, Byte): PrivateScope, Public, HideBySig
+    RMH_LiveView_RenderZoomWindowTexture(Double, Double, Double, Double, Boolean(HasFieldMarshal), Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    RMH_LiveView_RenderZoomWindow(UInt32, UInt32, UInt16*, UInt32, UInt32, Boolean(HasFieldMarshal), Single, Single, Single, Single, Double): PrivateScope, Public, HideBySig
+    RMH_LiveView_RenderZoomWindowUltraResolution(UInt32, UInt32, UInt16*, UInt32, UInt32, UInt32, UInt32, Boolean(HasFieldMarshal), Single, Single, Single, Single, Double): PrivateScope, Public, HideBySig
+    RMH_OpenGL_RenderingFinishedMark(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class IRCAMThermalViewer.VideoPlayBackTools: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    InitializeGlobalFormsObjects(): PrivateScope, Public, HideBySig
+    FormatUpdataAndDisplayElapsedAndRemainingTimeLabels(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.ColorBarRangeDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    UpdateColorBarTempRangeDialogValues(Double, Double, String): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.InputValueDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, Single, Single, Single*, Boolean*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button SetInputValueButton : Public
+    System.Windows.Forms.Button ApplyValueButton : Public
+  Methods:
+    InitializeComponent(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.StatisticsWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    UpdateConstantStatisticsValueLabels(): PrivateScope, Public, HideBySig
+    InitializeGlobalFormsObjects(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.LiveViewTools: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    IRCAMThermalViewer.ColorBarRangeDialog ColorBarRangeDialogForm : Public
+    IRCAMThermalViewer.InputValueDialog InputValueDialogForm : Public
+    IRCAMThermalViewer.StatisticsWindow StatisticsWindowForm : Public
+    System.Windows.Forms.Button TempUnitKButton : Public
+    System.Windows.Forms.Button TempUnitFButton : Public
+    System.Windows.Forms.Button TempUnitCButton : Public
+    System.Windows.Forms.Button LiveViewRunStopButton : Public
+    System.Windows.Forms.Button CalibrateCameraButton : Public
+    System.Windows.Forms.ComboBox ColorPaletteComboBox : Public
+    System.Windows.Forms.ComboBox DualColorPaletteComboBox : Public
+    System.Windows.Forms.ComboBox ColorBarBackPaletteComboBox : Public
+  Methods:
+    InitializeComponentArraysAndGlobalObjects(): PrivateScope, Public, HideBySig
+    ShowInputValueDialogForm(String, String, Single, Single, Single*, Boolean*): PrivateScope, Public, HideBySig
+    ShowColorbarTemperatureRangeDialogForm(): PrivateScope, Public, HideBySig
+    ShowLiveViewStatisticsWindowForm(): PrivateScope, Public, HideBySig
+    LiveViewRunStopButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    ColorPaletteComboBox_SelectedIndexChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+    DualColorPaletteComboBox_SelectedIndexChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+    ColorBarBackPaletteComboBox_SelectedIndexChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+    CalibrateCameraButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    TempRangeButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    MaxTempTrackButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    MinTempTrackButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    CenterTempTrackButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    AddTempMeasButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    AddTempSpecLineButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    ShowLineHistButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    AddROIMeasButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    CursorTempTrackButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    DualColorPaletteButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    EnhancedResButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    UltraResolutionButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    ImageSharpButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    FixedAspectRatioButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    SnapshotButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    RecordButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    TempUnitCButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    PeriodicTimerTriggerButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.LiveViewStream: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Panel LiveViewStreamPanel : Public
+    System.Windows.Forms.Panel ColorBarMainPanel : Public
+    System.Windows.Forms.Panel LiveViewHistogramPanel : Public
+    System.Windows.Forms.Panel LiveViewStreamMainPanel : Public
+  Methods:
+    InitializeComponentArraysAndGlobalObjects(): PrivateScope, Public, HideBySig
+    DockLiveViewToolsFormInLiveViewToolsPanel(): PrivateScope, Public, HideBySig
+    HandleLiveViewButtonsHotKeyFunctions(KeyPressEventArgs): PrivateScope, Public, HideBySig
+    HandleFormsOpeningDockingAndUndocking(Form, Panel, Boolean*, Boolean*, Boolean*, UInt16): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.WelcomeScreen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class IRCAMThermalViewer.PopUpDialog: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class IRCAMThermalViewer.ThermalCameraGUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    InitializeComponentArraysAndObjects(): PrivateScope, Public, HideBySig
+    SaveFormSessionSettings(): PrivateScope, Public, HideBySig
+    LoadDataToDataSetComboBoxsAndSetStartUpConfiguration(): PrivateScope, Public, HideBySig
+    LoadTemperatureAlarmsConfigDataToComboboxes(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.SurfacePlotGUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Panel SurfacePlotPanel : Public
+  Methods:
+    InitializeComponentArraysAndGlobalObjects(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.TempMeasGUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Panel Temp2DPlotPanel : Public
+  Methods:
+    InitializeComponentArraysAndGlobalObjects(): PrivateScope, Public, HideBySig
+    InitializeComponent(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.EmissivityTableGUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class IRCAMThermalViewer.UserGuideViewerGUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    InitializeGlobalFormsObjects(): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.MainGUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    InitializeComponentArrays(): PrivateScope, Public, HideBySig
+    InitializeGlobalFormsObjects(): PrivateScope, Public, HideBySig
+    HandleFormsOpeningDockingAndUndocking(Form, Panel, Boolean*, Boolean*, Boolean*, UInt16): PrivateScope, Public, HideBySig
+Class IRCAMThermalViewer.MainGUI+ManagedLocals: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    IRCAMThermalViewer.LiveViewStream LiveViewStreamForm : Public, Static
+    IRCAMThermalViewer.WelcomeScreen WelcomeScreenForm : Public, Static
+    IRCAMThermalViewer.UserGuideViewerGUI UserGuideViewerGUIForm : Public, Static
+    IRCAMThermalViewer.ThermalCameraGUI ThermalCameraGUIForm : Public, Static
+    IRCAMThermalViewer.SurfacePlotGUI SurfacePlotGUIForm : Public, Static
+    IRCAMThermalViewer.TempMeasGUI TempMeasurementsGUIForm : Public, Static
+    IRCAMThermalViewer.EmissivityTableGUI EmissivityTableGUIForm : Public, Static
+    IRCAMThermalViewer.VideoPlayBackTools PlayBackControlsPanelForm : Public, Static
+Class IRCAMThermalViewer.SplashScreen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

@@ -1,0 +1,6 @@
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Debug\IRCAM Thermal Viewer.vcxproj.AssemblyReference.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Debug\IRCAM Thermal Viewer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Debug\IRCAM Thermal Viewer.exe
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Debug\IRCAMThermalViewer.MainGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Debug\IRCAM Thermal Viewer.vcxproj.GenerateResource.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Debug\IRCAMThermalViewer.SplashScreen.resources

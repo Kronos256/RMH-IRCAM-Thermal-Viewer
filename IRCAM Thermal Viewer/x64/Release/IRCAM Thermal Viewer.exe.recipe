@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\IRCAM Thermal Viewer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\opencv_videoio_ffmpeg460_64.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\opencv_world460.dll</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls>
+    <SatelliteDll>
+      <FullPath>C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\aa\IRCAM Thermal Viewer.resources.dll</FullPath>
+    </SatelliteDll>
+  </SatelliteDlls>
+  <NonRecipeFileRefs />
+</Project>

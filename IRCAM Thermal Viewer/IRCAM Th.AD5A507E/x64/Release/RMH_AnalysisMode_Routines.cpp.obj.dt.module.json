@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "IRCAM Th.AD5A507E\\x64\\Release\\RMH_AnalysisMode_Routines.obj",
+            "outputs": [
+                "IRCAM Th.AD5A507E\\x64\\Release\\RMH_AnalysisMode_Routines.cpp.obj.dt.module.json",
+                "IRCAM Th.AD5A507E\\x64\\Release\\RMH_AnalysisMode_Routines.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

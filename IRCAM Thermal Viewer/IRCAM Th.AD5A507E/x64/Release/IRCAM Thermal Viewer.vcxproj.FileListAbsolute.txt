@@ -1,0 +1,32 @@
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\stdole.dll
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\Microsoft.VisualStudio.Interop.dll
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAM Thermal Viewer.vcxproj.AssemblyReference.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAM Thermal Viewer.vcxproj.MdMergeInputs.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAM Thermal Viewer.vcxproj.cppwinrt_plat.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAM Thermal Viewer.vcxproj.cppwinrt_comp.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.ColorBarRangeDialog.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.ColorPaletteCreator.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.EmissivityTableGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.InputValueDialog.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.LiveViewStream.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.LiveViewTools.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.MainGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.PopUpDialog.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.SplashScreen.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.StatisticsWindow.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.SurfacePlotGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.TempMeasGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.ThermalCameraGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.UserGuideViewerGUI.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.VideoPlayBackTools.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.WelcomeScreen.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAMThermalViewer.MainGUI.aa.resources
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAM Thermal Viewer.vcxproj.GenerateResource.cache
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\IRCAM Th.AD5A507E\x64\Release\IRCAM Th.B144BA54.Up2Date
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\x64\Release\glew32.dll
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\x64\Release\glfw3.dll
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\IRCAMSoftwareManual.pdf
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\app.manifest.xml
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\opencv_world490.dll

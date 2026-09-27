@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Image Resources">
+      <UniqueIdentifier>{f3ae7030-1ce5-422b-80e0-d7e950d74358}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Application Resource Files">
+      <UniqueIdentifier>{105629ed-c172-4da2-bbe0-5d12fbef06ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RMH Video Recording And Analysis Mode">
+      <UniqueIdentifier>{bf15462a-92b6-4708-b67f-f09057bd4449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\RMH Video Recording And Analysis Mode">
+      <UniqueIdentifier>{a6db1263-eb9c-4a2e-aa58-e16e732a2c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\RMH DirectShow Camera Library">
+      <UniqueIdentifier>{9eb2b740-7e2f-4216-8d8c-3daffbc14d70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RMH DirectShow Camera Library">
+      <UniqueIdentifier>{3cda4e50-b14e-4b5c-bb55-c9ab25c486a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RMH Thermal Viewer Code Library">
+      <UniqueIdentifier>{b766e3c4-fece-4c44-8237-13515d099369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\RMH Thermal Viewer Code Library">
+      <UniqueIdentifier>{16d1f224-e194-4eb4-8578-5f397f89a510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\RMH Thermal Viewer OpenGL Libraries">
+      <UniqueIdentifier>{de687959-81bc-419f-bd3e-a7f8e05d938c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\OpenGL Header Files">
+      <UniqueIdentifier>{25a47ade-df4f-43ad-bff3-0053f13aa13a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Installer Content Files">
+      <UniqueIdentifier>{412fa9e0-0dd2-47f4-a945-61f8a8da9bd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\IRCAM Application GUI Forms">
+      <UniqueIdentifier>{99de4ac2-dac4-49e2-b050-7920db495843}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RMH_CustomColorPalette_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_SupportedIRCameras_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="abstract_ds_camera.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="camera_device.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="cv_mat_convertor.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera_device.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera_properties.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera_property.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera_stub.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera_stub_default.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_camera_utils.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_grabber_callback.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_guid.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_libs_setting.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ds_video_format.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="qedit.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="uvc_camera.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="uvc_camera_looper.h">
+      <Filter>Header Files\RMH DirectShow Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_Application_Information.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_OpenGL_Winforms.h">
+      <Filter>Header Files\RMH Thermal Viewer OpenGL Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_OpenGL_ColorBar.h">
+      <Filter>Header Files\RMH Thermal Viewer OpenGL Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_OpenGL_Histogram.h">
+      <Filter>Header Files\RMH Thermal Viewer OpenGL Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_OpenGL_SurfacePlot.h">
+      <Filter>Header Files\RMH Thermal Viewer OpenGL Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_Application_ColorBarAndPalette.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_Application_SaveSession.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_Application_ThermalViewer.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_ImageProcessing_Library.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalObjectsAndVariables.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_ThermalCameraSupport_Library.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_MathConversions_Library.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_Winforms_Library.h">
+      <Filter>Header Files\RMH Thermal Viewer Code Library</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_OpenGL_2DPlot.h">
+      <Filter>Header Files\RMH Thermal Viewer OpenGL Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_2DPlotDataSetSources_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_EmissivityTable_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_TemperatureAlarms_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_AnalysisMode_Routines.h">
+      <Filter>Header Files\RMH Video Recording And Analysis Mode</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplicationResource.h">
+      <Filter>Resource Files\Application Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_FullFrameTempData_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_DataLoggingFeature_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_GeneralTriggerEvent_Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="eglew.h">
+      <Filter>Header Files\OpenGL Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glew.h">
+      <Filter>Header Files\OpenGL Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glfw3.h">
+      <Filter>Header Files\OpenGL Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glfw3native.h">
+      <Filter>Header Files\OpenGL Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glxew.h">
+      <Filter>Header Files\OpenGL Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wglew.h">
+      <Filter>Header Files\OpenGL Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMH_LiveView_ZoomWindow.h">
+      <Filter>Header Files\RMH Thermal Viewer OpenGL Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorBarRangeDialog.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorPaletteCreator.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="EmissivityTableGUI.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="InputValueDialog.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="LiveViewStream.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="LiveViewTools.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGUI.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="PopUpDialog.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashScreen.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="StatisticsWindow.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="SurfacePlotGUI.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="TempMeasGUI.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="ThermalCameraGUI.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="UserGuideViewerGUI.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="VideoPlayBackTools.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="WelcomeScreen.h">
+      <Filter>Header Files\IRCAM Application GUI Forms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="abstract_ds_camera.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="camera_device.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="cv_mat_convertor.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_camera.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_camera_device.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_camera_properties.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_camera_property.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_camera_stub.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_camera_utils.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_grabber_callback.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_video_format.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="uvc_camera.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="uvc_camera_looper.cpp">
+      <Filter>Source Files\RMH DirectShow Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalObjectsAndVariables.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_Application_ColorBarAndPalette.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_Application_ThermalViewer.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_ImageProcessing_Library.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_ThermalCameraSupport_Library.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_MathConversions_Library.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_Winforms_Library.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_AnalysisMode_Routines.cpp">
+      <Filter>Source Files\RMH Video Recording And Analysis Mode</Filter>
+    </ClCompile>
+    <ClCompile Include="RMH_Application_SaveSession.cpp">
+      <Filter>Source Files\RMH Thermal Viewer Code Library</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\AppIkoner\MainIcon.ico">
+      <Filter>Resource Files\Image Resources</Filter>
+    </Image>
+    <Image Include="..\AppIkoner\NyeIkoner\MaxTrackS.png">
+      <Filter>Resource Files\Image Resources</Filter>
+    </Image>
+    <Image Include="..\AppIkoner\NyeIkoner\MinTrackS.png">
+      <Filter>Resource Files\Image Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="IRCAM Thermal Viewer.rc">
+      <Filter>Resource Files\Application Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="x64\Release\glew32.dll">
+      <Filter>Installer Content Files</Filter>
+    </None>
+    <None Include="x64\Release\glfw3.dll">
+      <Filter>Installer Content Files</Filter>
+    </None>
+    <None Include="..\Program Files\IRCAMSoftwareManual.pdf">
+      <Filter>Installer Content Files</Filter>
+    </None>
+    <None Include="..\Program Files\opencv_videoio_ffmpeg490_64.dll">
+      <Filter>Installer Content Files</Filter>
+    </None>
+    <None Include="..\Program Files\opencv_world490.dll">
+      <Filter>Installer Content Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="app.manifest.xml">
+      <Filter>Resource Files</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

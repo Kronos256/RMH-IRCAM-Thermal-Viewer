@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "IRCAM Th.AD5A507E\\x64\\Release\\RMH_ThermalCameraSupport_Library.obj",
+            "outputs": [
+                "IRCAM Th.AD5A507E\\x64\\Release\\RMH_ThermalCameraSupport_Library.cpp.obj.dt.module.json",
+                "IRCAM Th.AD5A507E\\x64\\Release\\RMH_ThermalCameraSupport_Library.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

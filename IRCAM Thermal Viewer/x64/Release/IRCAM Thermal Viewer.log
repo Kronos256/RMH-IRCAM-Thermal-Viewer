@@ -1,0 +1,478 @@
+﻿  COM Reference 'AcroPDFLib.1.0' is the interop assembly for ActiveX control 'AxAcroPDFLib.1.0' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
+  abstract_ds_camera.cpp
+  GlobalObjectsAndVariables.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  RMH_Application_ColorBarAndPalette.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(18,51): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(18,75): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(18,85): error C2065: 'ColorPaletteComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(18,6): error C2182: 'RMH_ColorPalette_LoadColorPalettesToCombiBox': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(19,42): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(19,66): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(19,76): error C2065: 'ColorPaletteComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(19,6): error C2182: 'RMH_ColorPalette_ChangeColorPalette': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(20,46): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(20,70): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(20,80): error C2065: 'DualColorPaletteComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(20,6): error C2182: 'RMH_ColorPalette_ChangeDualColorPalette': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(21,60): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(21,84): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(21,94): error C2065: 'ColorBarBackPaletteComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(21,6): error C2182: 'RMH_ColorPalette_ChangeColorBarBackgroundColorPalette': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(22,47): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(22,71): error C2065: 'Button': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(22,79): error C2065: 'DualColorPaletteButton': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(22,6): error C2182: 'RMH_ColorPalette_EnableDualColorPalettes': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(24,43): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(24,51): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(24,59): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(24,6): error C2182: 'RMH_ColorPalette_InvertColorPalettes': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(28,55): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(28,63): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(28,71): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(28,6): error C2182: 'RMH_ColorBar_ChangeManualRangeMouseWheelStepSize': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(29,57): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(29,65): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(29,73): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ColorBarAndPalette.h(29,6): error C2182: 'RMH_ColorBar_ChangeColorBarAmountOfTemperatureTick': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ThermalCameraSupport_Library.h(133,86): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ThermalCameraSupport_Library.h(133,110): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ThermalCameraSupport_Library.h(133,120): error C2065: 'CameraSourceComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ImageProcessing_Library.h(157,94): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ImageProcessing_Library.h(157,118): error C2061: syntax error: identifier 'PictureBox'
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(70,1): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(70,31): error C2143: syntax error: missing ';' before '^'
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(70,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(70,65): error C3193: '^': requires '/clr' or '/ZW' command line option
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(70,67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(71,48): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(71,80): error C2065: 'BenchmarkTimer': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(71,6): error C2182: 'RMH_Winforms_StopBenchmarkTimerAndDisplay': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(76,42): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(76,66): error C2065: 'Form': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(76,72): error C2065: 'Winform': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(76,86): error C2275: 'std::string': expected an expression instead of a type
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(76,93): error C2146: syntax error: missing ')' before identifier 'Text'
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(80,31): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(80,39): error C2065: 'String': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(80,47): error C2065: 'LinkURL': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(80,6): error C2182: 'RMH_Winforms_OpenLinkURL': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(81,48): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(81,56): error C2065: 'String': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(81,64): error C2065: 'PackageFamilyName': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(89,50): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(89,74): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(89,84): error C2065: 'CombiBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(89,99): error C2275: 'std::vector<std::string,std::allocator<std::string>>': expected an expression instead of a type
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(89,119): error C2146: syntax error: missing ')' before identifier 'StringArray'
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(90,53): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(90,77): error C2065: 'ComboBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(90,87): error C2065: 'CombiBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(90,97): error C2062: type 'unsigned char' unexpected
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(94,46): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(94,70): error C2065: 'NumericUpDown': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(94,85): error C2065: 'NumericUpDown': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(94,100): error C2062: type 'float' unexpected
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(98,41): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(98,65): error C2065: 'RichTextBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(98,78): error C2065: 'RichTextBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(98,96): error C2275: 'std::string': expected an expression instead of a type
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(98,103): error C2146: syntax error: missing ')' before identifier 'Text'
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,59): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,83): error C2065: 'DataGridView': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,97): error C2065: 'DataGridView': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,116): error C2275: 'std::vector<std::string,std::allocator<std::string>>': expected an expression instead of a type
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,136): error C2146: syntax error: missing ')' before identifier 'ColumnsHeaderText'
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,155): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,259): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(102,308): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,48): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,72): error C2065: 'PictureBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,84): error C2065: 'PictureBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,96): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,113): error C2065: 'Bitmap': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,121): error C2065: 'Bitmap': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,129): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,155): error C2065: 'ColorPalette': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,169): error C2065: 'ColorPalette': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(106,6): error C2182: 'RMH_Winforms_PictureBox_UpdateImageBitmap': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(110,36): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(110,60): error C2065: 'Panel': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(110,67): error C2065: 'SubMenuPanel': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(110,6): error C2182: 'RMH_Winforms_HideSubMenuPanel': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,38): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,62): error C2065: 'Panel': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,69): error C2065: 'SubMenuPanel': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,83): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,107): error C2065: 'Button': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,115): error C2065: 'MenuButton': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Winforms_Library.h(111,125): fatal  error C1003: error count exceeds 100; stopping compilation
+  camera_device.cpp
+  cv_mat_convertor.cpp
+  ds_camera.cpp
+  ds_camera_device.cpp
+  ds_camera_properties.cpp
+  ds_camera_property.cpp
+  ds_camera_stub.cpp
+  ds_camera_utils.cpp
+  ds_grabber_callback.cpp
+  ds_video_format.cpp
+  RMH_Application_SaveSession.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_SaveSession.h(19,57): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_SaveSession.h(19,81): error C2065: 'RichTextBox': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_SaveSession.h(19,94): error C2065: 'GUIInfoTextArea': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_SaveSession.h(19,6): error C2182: 'RMH_Application_SetSavedSessionConfigToApplication': this use of 'void' is not valid
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  RMH_Application_ThermalViewer.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(38,44): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(38,52): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(38,60): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(38,6): error C2182: 'RMH_ThermalViewer_Enable2DPlotDataSet': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(41,65): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(41,73): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(41,81): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(41,6): error C2182: 'RMH_ThermalViewer_Change2DPlotDataSetAndSettingsPanelColor': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(42,53): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(42,61): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(42,69): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(42,6): error C2182: 'RMH_ThermalViewer_Change2DPlotDataSetLineWidth': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(43,50): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(43,58): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(43,66): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(43,6): error C2182: 'RMH_ThermalViewer_Change2DPlotDataSetSource': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(51,61): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(51,85): error C2065: 'Label': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(51,92): error C2065: 'DefaultPathString': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(51,6): error C2182: 'RMH_ThermalViewer_UpdateDataLoggingDefaultSaveFilePath': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(60,57): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(60,65): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(60,73): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(60,6): error C2182: 'RMH_ThermalViewer_ChangeTemperatureAlarmDataSource': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(61,50): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(61,58): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(61,66): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(61,6): error C2182: 'RMH_ThermalViewer_ChangeTempAlarmConfigType': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(62,55): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(62,63): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(62,71): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(62,6): error C2182: 'RMH_ThermalViewer_ChangeTempAlarmLowTempSetPoint': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(63,56): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(63,64): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(63,72): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(63,6): error C2182: 'RMH_ThermalViewer_ChangeTempAlarmHighTempSetPoint': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(64,53): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(64,61): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(64,69): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(64,6): error C2182: 'RMH_ThermalViewer_ChangeTempAlarmTriggerAction': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(65,47): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(65,55): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(65,63): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(65,6): error C2182: 'RMH_ThermalViewer_EnableTemperatureAlarm': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(69,57): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(69,65): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(69,73): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(69,6): error C2182: 'RMH_ThermalViewer_OpdateTempAlarmTriggerSoundTimer': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(71,49): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(71,57): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(71,65): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(71,6): error C2182: 'RMH_ThermalViewer_EnableAlarmTriggerEvents': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(73,59): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(73,67): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(73,75): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(73,6): error C2182: 'RMH_ThermalViewer_ResetAlarmTriggerEventExecutedFlag': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(79,64): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(79,88): error C2065: 'DataGridViewCellEventArgs': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(79,115): error C2065: 'e': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(79,6): error C2182: 'RMH_ThermalViewer_LoadEmissivisyTableValueToThermalCamera': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(94,46): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(94,54): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(94,62): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(94,6): error C2182: 'RMH_ThermalViewer_ChangeTemperatureUnit': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(120,65): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(120,73): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(120,81): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(120,6): error C2182: 'RMH_ThermalViewer_DeleteTemperatureMeasurementFromLiveView': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(127,62): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(127,70): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(127,78): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(127,6): error C2182: 'RMH_ThermalViewer_DeleteRegionOfInterestBoxFromLiveView': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(134,58): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(134,66): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(134,74): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(134,6): error C2182: 'RMH_ThermalViewer_DeleteTemperatureLineFromLiveView': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(140,49): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(140,57): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(140,65): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(140,6): error C2182: 'RMH_ThermalViewer_ChangeHistoramDataSource': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(149,58): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(149,82): error C2065: 'Label': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(149,89): error C2065: 'DefaultPathString': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(149,6): error C2182: 'RMH_ThermalViewer_UpdateSnapshotDefaultSaveFilePath': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(150,64): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(150,88): error C2065: 'Label': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(150,95): error C2065: 'DefaultPathString': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(150,6): error C2182: 'RMH_ThermalViewer_UpdateVideoRecordingDefaultSaveFilePath': this use of 'void' is not valid
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(155,54): error C2653: 'System': is not a class or namespace name
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(155,62): error C2065: 'Object': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(155,70): error C2065: 'sender': undeclared identifier
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_Application_ThermalViewer.h(155,6): error C2182: 'RMH_ThermalViewer_ConfigDefaultCapturingProgram': this use of 'void' is not valid
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): fatal  error C1003: error count exceeds 100; stopping compilation
+  RMH_ThermalCameraSupport_Library.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  RMH_ImageProcessing_Library.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  RMH_MathConversions_Library.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  RMH_AnalysisMode_Routines.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  Generating Code...
+  Compiling...
+  RMH_Winforms_Library.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,17): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(140,2): message : see reference to class template instantiation 'gcroot<T>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,60): error C3646: 'GCHandle': unknown override specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\gcroot.h(59,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(28,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,27): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(30,9): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,15): error C2653: 'System': is not a class or namespace name
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(31,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,8): error C2040: '__const_Char_ptr': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,25): error C2146: syntax error: missing ';' before identifier 'PtrToStringChars'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ')' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,42): error C2040: '__const_String_handle': 'int' differs in levels of indirection from 'int *'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,64): error C2146: syntax error: missing ';' before identifier 's'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,65): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcclr.h(39,67): error C2447: '{': missing function header (old-style formal list?)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\msclr\marshal.h(19,12): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  uvc_camera.cpp
+  uvc_camera_looper.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\x64\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp(1,8): fatal  error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  Generating Code...

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "IRCAM Th.AD5A507E\\x64\\Release\\main.obj",
+            "outputs": [
+                "IRCAM Th.AD5A507E\\x64\\Release\\main.cpp.obj.dt.module.json",
+                "IRCAM Th.AD5A507E\\x64\\Release\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

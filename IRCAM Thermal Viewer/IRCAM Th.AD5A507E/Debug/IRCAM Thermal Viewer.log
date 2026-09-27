@@ -1,0 +1,69 @@
+﻿  abstract_ds_camera.cpp
+  GlobalObjectsAndVariables.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'GlobalObjectsAndVariables.cpp')
+  
+  RMH_Application_ColorBarAndPalette.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_Application_ColorBarAndPalette.cpp')
+  
+  camera_device.cpp
+  cv_mat_convertor.cpp
+  ds_camera.cpp
+  ds_camera_device.cpp
+  ds_camera_properties.cpp
+  ds_camera_property.cpp
+  ds_camera_stub.cpp
+  ds_camera_utils.cpp
+  ds_grabber_callback.cpp
+  ds_video_format.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\ds_video_format.cpp(16,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\ds_video_format.cpp(20,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\ds_video_format.cpp(113,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\ds_video_format.cpp(269,31): warning C4018: '<': signed/unsigned mismatch
+  RMH_Application_DataPipelines.cpp
+  RMH_Application_Licencing.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_Application_Licencing.cpp')
+  
+  RMH_Application_SaveSession.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_Application_SaveSession.cpp')
+  
+  RMH_Application_ThermalViewer.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_Application_ThermalViewer.cpp')
+  
+  RMH_ThermalCameraSupport_Library.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_ThermalCameraSupport_Library.cpp')
+  
+  main.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'main.cpp')
+  
+  RMH_ImageProcessing_Library.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_ImageProcessing_Library.cpp')
+  
+  Generating Code...
+  Compiling...
+  RMH_MathConversions_Library.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.cpp(13,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  RMH_AnalysisMode_Routines.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_AnalysisMode_Routines.cpp(13,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  RMH_Winforms_Library.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_MathConversions_Library.h(18,10): error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  (compiling source file 'RMH_Winforms_Library.cpp')
+  
+  uvc_camera.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(78,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(104,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(129,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(131,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(1975,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(2001,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\uvc_camera.cpp(2457,27): warning C4018: '<': signed/unsigned mismatch
+  uvc_camera_looper.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...

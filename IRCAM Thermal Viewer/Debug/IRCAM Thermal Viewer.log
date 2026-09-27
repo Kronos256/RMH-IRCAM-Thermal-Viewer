@@ -1,0 +1,16 @@
+﻿  camera_device.cpp
+  cv_mat_convertor.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\cv_mat_convertor.h(10,10): fatal  error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  ds_camera.cpp
+  ds_camera_stub.cpp
+  RMH_ApplicationSpecific_Functions.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ImageProcessing_Library.h(17,10): fatal  error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  RMH_IRCameraDevice_Library.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\cv_mat_convertor.h(10,10): fatal  error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  RMH_ImageProcessing_Library.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\RMH_ImageProcessing_Library.cpp(11,10): fatal  error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  uvc_camera.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\cv_mat_convertor.h(10,10): fatal  error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  uvc_camera_looper.cpp
+C:\Users\Rune_\Desktop\RMH IRCAM Thermal Viewer\IRCAM Thermal Viewer\cv_mat_convertor.h(10,10): fatal  error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  Generating Code...
